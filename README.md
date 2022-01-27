@@ -1,3 +1,17 @@
+Activitat:
+
+1) Fer un clone del meu repositori
+https://github.com/joanpardogine/MP02_UF02_ActitvitatNouVideoclub
+
+2) Crear un repositori CognomNom_ActitvitatNouVideoclub al vostre github.
+
+3) Convidar a joanpardogine
+
+4) Cal crear el vostre README.md de zero explicant pas a pas que és que feu a cada punt.
+
+5) Crear un fitxer nouVideoclub.sql a on afegiu tota la informació per crear la base de dades i afegir tota la informació que hi havia a l'anterior base de dades.
+
+
 # Modificar base de dades **```videoclub```**.
 
 ![MER previ](./images/MER_previ.png)
